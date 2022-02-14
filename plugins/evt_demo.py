@@ -18,3 +18,4 @@ class EvtDemo(PluginBase):
             self.logger("250")
             plugins.XivHacks.moving_z_modify = 0  # 将遁地数值设定为0
             plugins.XivHacks.speed_percent = 1.05 #将速度数值设定为1.05
+
